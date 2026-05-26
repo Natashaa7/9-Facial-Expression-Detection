@@ -1,4 +1,4 @@
-# 😊 9 Facial Expression Detection & Classification using YOLOv8
+# 9 Facial Expression Detection & Classification using YOLOv8
 
 A deep learning project for **detecting and classifying 9 different facial expressions** using **YOLOv8**, OpenCV, and PyTorch.
 
